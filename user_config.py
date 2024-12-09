@@ -1,15 +1,8 @@
 source_file = "user_demo.txt"
 final_file = "user_result.txt"
 favorite_list = [
-    "广东珠江",
-    "开平综合",
-    "开平生活",
     "CCTV-1",
-    "CCTV-5",
-    "CCTV-5+",
     "CCTV-13",
-    "广东体育",
-    "广东卫视",
     "大湾区卫视",
     "浙江卫视",
     "湖南卫视",
